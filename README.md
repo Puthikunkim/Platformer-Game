@@ -5,5 +5,5 @@ This project is a platformer game developed using Python Arcade, a modern Python
 ## Technologies Used
 
 - **Programming Language**: Developed in Python.
-- **Game Framework**: Utilizes Python Arcade for game development.
+- **Game Framework**: Utilises Python Arcade for game development.
 - **Level Design**: Tiled Level Editor for designing and exporting game maps.
